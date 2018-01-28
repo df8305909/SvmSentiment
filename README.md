@@ -22,3 +22,5 @@ utf8请将各个类代码中的GBK进行修改。
 
 2.中科院分词可能过期，若过期，请到官网更新更新license（更换NLPIR.user）
 地址：https://github.com/NLPIR-team/NLPIR/tree/master/License
+
+如果有用欢迎点个星星
