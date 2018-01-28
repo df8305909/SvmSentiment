@@ -9,7 +9,7 @@
 
 3.通过model.txt对i_data_test.txt进行测试。
 
-4.其中模型model.txt、词袋wordss.txt的训练请看另一个项目：
+4.其中模型model.txt、词袋wordss.txt的训练请看另一个项目：https://github.com/18846194802/libsvm_weibo_sentiment_train
 
 使用：
 
