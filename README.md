@@ -7,7 +7,7 @@
 
 2.本项目根据中科院分词和训练好的词袋对训练的文本进行编号，去停用词，过滤噪音，编号，数据预处理，做成测试集（i_data_test.txt）
 
-3.通过model.txt对i_data_test.txt进行测试。
+3.通过训练好的模型model.txt对i_data_test.txt进行测试。
 
 4.其中模型model.txt、词袋wordss.txt的训练请看另一个项目：https://github.com/18846194802/libsvm_weibo_sentiment_train
 
